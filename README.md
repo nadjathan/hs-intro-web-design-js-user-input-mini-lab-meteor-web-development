@@ -17,3 +17,7 @@ Once you have that input stored, you'll want to use string methods (like toUpper
 Your final output should use *string concatenation* to output the data in a full summary of their NYC itinerary. 
 
 Remember, you'll need to link your JavaScript file to `index.html` for your code to run in the browser.
+
+#### Bonus
+
+See if you can make suggestions for them based on the type of food they'd like to eat, the types of places they'd like to visit, etc. You'll need to use if-statements to trigger events based on their input. 
