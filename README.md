@@ -1,7 +1,7 @@
 ## User Input Mini App
 Now that we know about `prompt` and `alert`, let's build a simple input/output app. The main objective is to create an application that _takes in user input, does something with that input, and then displays an output_.
 
-### Gets
+### Prompt
 The first thing we need to do is take in user input with the `prompt` method. Remember, when an executed JavaScript program hits the method `prompt`, the program is going to pause and wait for the user to enter text into the text box.
 
 The way `prompt` takes in input is important to remember. First, it always takes in input as strings. If a user enters `10`, gets interprets that as `"10"`, not as an integer. The second thing to remember is that `gets` also takes in the newline character. 
