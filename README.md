@@ -21,3 +21,5 @@ Remember, you'll need to link your JavaScript file to `index.html` for your code
 #### Bonus
 
 See if you can make suggestions for them based on the type of food they'd like to eat, the types of places they'd like to visit, etc. You'll need to use if-statements to trigger events based on their input. 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-js-user-input-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
